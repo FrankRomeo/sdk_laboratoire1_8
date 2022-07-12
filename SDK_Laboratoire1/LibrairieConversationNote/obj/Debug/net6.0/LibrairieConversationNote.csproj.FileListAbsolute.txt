@@ -1,0 +1,12 @@
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversationNote.deps.json
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversationNote.dll
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversationNote.pdb
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.csproj.AssemblyReference.cache
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.AssemblyInfoInputs.cache
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.AssemblyInfo.cs
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.csproj.CoreCompileInputs.cache
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.dll
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\refint\LibrairieConversationNote.dll
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.pdb
+C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\ref\LibrairieConversationNote.dll

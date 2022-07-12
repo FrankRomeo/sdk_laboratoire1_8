@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj": {}
+    "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj": {}
   },
   "projects": {
-    "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj": {
+    "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
-        "projectName": "SDK_Laboratoire1",
-        "projectPath": "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+        "projectUniqueName": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj",
+        "projectName": "LibrairieConversationNote",
+        "projectPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj",
         "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
-        "outputPath": "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\obj\\",
+        "outputPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\offic\\AppData\\Roaming\\NuGet\\NuGet.Config",

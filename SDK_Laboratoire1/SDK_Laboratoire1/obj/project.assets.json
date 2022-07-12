@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "LibrairieConversationNote/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LibrairieConversationNote.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrairieConversationNote.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibrairieConversationNote/1.0.0": {
+      "type": "project",
+      "path": "../LibrairieConversationNote/LibrairieConversationNote.csproj",
+      "msbuildProject": "../LibrairieConversationNote/LibrairieConversationNote.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "LibrairieConversationNote >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\offic\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+      "projectUniqueName": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
       "projectName": "SDK_Laboratoire1",
-      "projectPath": "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+      "projectPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
       "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
-      "outputPath": "E:\\SESSION 2\\KITS DE DÉVELOPPEMENT\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\obj\\",
+      "outputPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\offic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj": {
+              "projectPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
