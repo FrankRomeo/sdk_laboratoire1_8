@@ -16,3 +16,21 @@ C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\ref\
 C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\LibrairieConversationNote.dll
 C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\LibrairieConversationNote.pdb
 C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.CopyComplete
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.exe
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.deps.json
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.runtimeconfig.json
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\SDK_Laboratoire1.pdb
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.AssemblyReference.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.AssemblyInfoInputs.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.AssemblyInfo.cs
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.csproj.CopyComplete
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\refint\SDK_Laboratoire1.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.pdb
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\SDK_Laboratoire1.genruntimeconfig.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\obj\Debug\net6.0\ref\SDK_Laboratoire1.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\SDK_Laboratoire1\bin\Debug\net6.0\LibrairieConversionNote.pdb

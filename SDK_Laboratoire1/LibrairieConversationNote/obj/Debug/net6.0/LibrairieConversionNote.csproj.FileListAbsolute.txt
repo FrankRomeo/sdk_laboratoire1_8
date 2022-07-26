@@ -1,0 +1,12 @@
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll

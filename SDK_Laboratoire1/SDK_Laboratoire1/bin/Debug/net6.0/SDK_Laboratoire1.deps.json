@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v6.0": {
       "SDK_Laboratoire1/1.0.0": {
         "dependencies": {
-          "LibrairieConversationNote": "1.0.0"
+          "LibrairieConversionNote": "1.0.0"
         },
         "runtime": {
           "SDK_Laboratoire1.dll": {}
         }
       },
-      "LibrairieConversationNote/1.0.0": {
+      "LibrairieConversionNote/1.0.0": {
         "runtime": {
-          "LibrairieConversationNote.dll": {}
+          "LibrairieConversionNote.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "LibrairieConversationNote/1.0.0": {
+    "LibrairieConversionNote/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

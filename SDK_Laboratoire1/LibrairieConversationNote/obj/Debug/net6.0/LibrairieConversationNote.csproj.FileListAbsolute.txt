@@ -10,3 +10,15 @@ C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\ne
 C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\refint\LibrairieConversationNote.dll
 C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.pdb
 C:\Lab1\SDK_Laboratoire1\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\ref\LibrairieConversationNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversationNote.deps.json
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversationNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\bin\Debug\net6.0\LibrairieConversationNote.pdb
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.csproj.AssemblyReference.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.AssemblyInfoInputs.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.AssemblyInfo.cs
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\refint\LibrairieConversationNote.dll
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\LibrairieConversationNote.pdb
+C:\Users\Carlos\MahStuff\Studies\Institut Grasset\03.Cours\Session02\SDK\travaux\lab1\sdk_laboratoire1_8\SDK_Laboratoire1\LibrairieConversationNote\obj\Debug\net6.0\ref\LibrairieConversationNote.dll

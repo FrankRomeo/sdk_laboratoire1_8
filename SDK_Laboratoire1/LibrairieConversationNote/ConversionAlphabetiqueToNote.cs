@@ -1,4 +1,4 @@
-﻿namespace LibrairieConversationNote
+﻿namespace LibrairieConversionNote
 {
     public static class ConversionAlphabetiqueToNote
     {
@@ -28,7 +28,7 @@
                     return "SOL";
                     break;
                 default:
-                    return "error";
+                    return "Entrée invalide";
                     break;
             }
         }

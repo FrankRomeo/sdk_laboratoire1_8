@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibrairieConversationNote\LibrairieConversationNote.csproj" />
+    <ProjectReference Include="..\LibrairieConversationNote\LibrairieConversionNote.csproj" />
   </ItemGroup>
 
 </Project>

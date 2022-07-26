@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\offic\\.nuget\\packages\\": {}
+    "C:\\Users\\Carlos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj",
-      "projectName": "LibrairieConversationNote",
-      "projectPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversationNote.csproj",
-      "packagesPath": "C:\\Users\\offic\\.nuget\\packages\\",
-      "outputPath": "C:\\Lab1\\SDK_Laboratoire1\\SDK_Laboratoire1\\LibrairieConversationNote\\obj\\",
+      "projectUniqueName": "C:\\Users\\Carlos\\MahStuff\\Studies\\Institut Grasset\\03.Cours\\Session02\\SDK\\travaux\\SDK_Laboratoire1_Groupe8\\sdk_laboratoire1_8\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversionNote.csproj",
+      "projectName": "LibrairieConversionNote",
+      "projectPath": "C:\\Users\\Carlos\\MahStuff\\Studies\\Institut Grasset\\03.Cours\\Session02\\SDK\\travaux\\SDK_Laboratoire1_Groupe8\\sdk_laboratoire1_8\\SDK_Laboratoire1\\LibrairieConversationNote\\LibrairieConversionNote.csproj",
+      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Carlos\\MahStuff\\Studies\\Institut Grasset\\03.Cours\\Session02\\SDK\\travaux\\SDK_Laboratoire1_Groupe8\\sdk_laboratoire1_8\\SDK_Laboratoire1\\LibrairieConversationNote\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\offic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
